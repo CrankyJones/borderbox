@@ -1,13 +1,28 @@
+
+h1{
+  color: brown;
+}
+
+.common{
+  font-size: large;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
 .boxyboy{
   float: left;
-  width: 45%;
-  border: 25px fuchsia;
-  padding: 5px;
+  width: 35%;
+  border: 10px solid fuchsia;
+  padding: 25px;
+  box-sizing: border-box;
   color: fuchsia;
+  background-color: honeydew;
+  border-radius: 10%;
 }
 
 img{
   float: right;
-  width: 30%;
+  width: 38%;
   height: auto;
 }
