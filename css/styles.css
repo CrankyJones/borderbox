@@ -1,0 +1,13 @@
+.boxyboy{
+  float: left;
+  width: 45%;
+  border: 25px fuchsia;
+  padding: 5px;
+  color: fuchsia;
+}
+
+img{
+  float: right;
+  width: 30%;
+  height: auto;
+}
