@@ -1,6 +1,13 @@
+body{
+  background-image: url('Images/OctopusColor.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  background-color: blueviolet;
+ }
 
 h1{
-  color: brown;
+  color: whitesmoke;
 }
 
 .common{
@@ -26,3 +33,4 @@ img{
   width: 38%;
   height: auto;
 }
+
